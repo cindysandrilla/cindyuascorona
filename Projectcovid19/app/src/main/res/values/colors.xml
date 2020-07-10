@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <!-- Custom Color -->
+    <color name="colorGreen">#4E8651</color>
+    <color name="colorLightGreen">#58B460</color>
+    <color name="colorLightGray">#F3F3F3</color>
+    <color name="colorOrange">#ffff8800</color>
+    <color name="colorRed">#ffff4444</color>
+    <color name="colorSoftBlack">#2C2C2C</color>
+    <color name="colorTransparentBlack">#7F000000</color>
+    <color name="colorTransparenSoftBlack">#80000000</color>
+
+    <!-- Background Color Icon -->
+    <!-- Menu Kasus -->
+    <color name="bgColorKasusPositif">#fff5f0</color>
+    <color name="bgColorSembuh">#eef6ee</color>
+    <color name="bgColorMeninggal">#fbf0f1</color>
+
+    <!-- Menu Informasi-->
+    <color name="bgColorMengenal">#fff4f6</color>
+    <color name="bgColorMencegah">#fff3ee</color>
+    <color name="bgColorMengobati">#f0f9f2</color>
+    <color name="bgColorMengantisipasi">#e5faf9</color>
+
+    <!-- Menu Bantuan-->
+    <color name="bgColorHotline">#f0f9f2</color>
+    <color name="bgColorKonsultasiDokter">#edfafc</color>
+    <color name="bgColorRumahSakitRujukan">#fef1f3</color>
+</resources>
